@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/shrek/Documents/OpenGL_Projects/learnopengl/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DGLFW_DLL -IC:/Users/shrek/Documents/OpenGL_Projects/learnopengl/include -std=gnu++17 -o CMakeFiles\\app.dir\\main.cpp.obj -c C:\\Users\\shrek\\Documents\\OpenGL_Projects\\learnopengl\\main.cpp",
+  "file": "C:/Users/shrek/Documents/OpenGL_Projects/learnopengl/main.cpp",
+  "output": "C:/Users/shrek/Documents/OpenGL_Projects/learnopengl/build/CMakeFiles/app.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/shrek/Documents/OpenGL_Projects/learnopengl/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\cc.exe -DGLFW_DLL -IC:/Users/shrek/Documents/OpenGL_Projects/learnopengl/include -std=gnu11 -o CMakeFiles\\app.dir\\src\\glad.c.obj -c C:\\Users\\shrek\\Documents\\OpenGL_Projects\\learnopengl\\src\\glad.c",
+  "file": "C:/Users/shrek/Documents/OpenGL_Projects/learnopengl/src/glad.c",
+  "output": "C:/Users/shrek/Documents/OpenGL_Projects/learnopengl/build/CMakeFiles/app.dir/src/glad.c.obj"
+}
+]

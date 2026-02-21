@@ -1,0 +1,3 @@
+C:/Users/shrek/Documents/OpenGL_Projects/learnopengl/build/CMakeFiles/app.dir
+C:/Users/shrek/Documents/OpenGL_Projects/learnopengl/build/CMakeFiles/edit_cache.dir
+C:/Users/shrek/Documents/OpenGL_Projects/learnopengl/build/CMakeFiles/rebuild_cache.dir
